@@ -12,3 +12,4 @@ C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson03\obj\Debug\net10.0\refint\
 C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson03\obj\Debug\net10.0\Lesson03.pdb
 C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson03\obj\Debug\net10.0\Lesson03.genruntimeconfig.cache
 C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson03\obj\Debug\net10.0\ref\Lesson03.dll
+C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson03\obj\Debug\net10.0\Lesson03.sourcelink.json
