@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqHwXRVVTGA=",
+  "dgSpecHash": "e05Pocn3icM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yakir\\RiderProjects\\CSharp2026Spring\\Lesson07\\Lesson07.csproj",
+  "projectFilePath": "D:\\Unity Projects\\CSharp2026Spring\\Lesson07\\Lesson07.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yakir\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.17\\microsoft.netcore.app.ref.9.0.17.nupkg.sha512",
     "C:\\Users\\yakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.17\\microsoft.windowsdesktop.app.ref.9.0.17.nupkg.sha512",

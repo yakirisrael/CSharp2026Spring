@@ -1,0 +1,15 @@
+D:\Unity Projects\CSharp2026Spring\Lesson10\bin\Debug\net10.0\Lesson10.exe
+D:\Unity Projects\CSharp2026Spring\Lesson10\bin\Debug\net10.0\Lesson10.deps.json
+D:\Unity Projects\CSharp2026Spring\Lesson10\bin\Debug\net10.0\Lesson10.runtimeconfig.json
+D:\Unity Projects\CSharp2026Spring\Lesson10\bin\Debug\net10.0\Lesson10.dll
+D:\Unity Projects\CSharp2026Spring\Lesson10\bin\Debug\net10.0\Lesson10.pdb
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\Lesson10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\Lesson10.AssemblyInfoInputs.cache
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\Lesson10.AssemblyInfo.cs
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\Lesson10.csproj.CoreCompileInputs.cache
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\Lesson10.sourcelink.json
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\Lesson10.dll
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\refint\Lesson10.dll
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\Lesson10.pdb
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\Lesson10.genruntimeconfig.cache
+D:\Unity Projects\CSharp2026Spring\Lesson10\obj\Debug\net10.0\ref\Lesson10.dll

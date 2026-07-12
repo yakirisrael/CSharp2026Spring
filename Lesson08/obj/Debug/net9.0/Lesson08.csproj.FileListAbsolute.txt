@@ -13,3 +13,18 @@ C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\refint\L
 C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.pdb
 C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.genruntimeconfig.cache
 C:\Users\yakir\RiderProjects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\ref\Lesson08.dll
+D:\Unity Projects\CSharp2026Spring\Lesson08\bin\Debug\net9.0\Lesson08.exe
+D:\Unity Projects\CSharp2026Spring\Lesson08\bin\Debug\net9.0\Lesson08.deps.json
+D:\Unity Projects\CSharp2026Spring\Lesson08\bin\Debug\net9.0\Lesson08.runtimeconfig.json
+D:\Unity Projects\CSharp2026Spring\Lesson08\bin\Debug\net9.0\Lesson08.dll
+D:\Unity Projects\CSharp2026Spring\Lesson08\bin\Debug\net9.0\Lesson08.pdb
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.AssemblyInfoInputs.cache
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.AssemblyInfo.cs
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.csproj.CoreCompileInputs.cache
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.sourcelink.json
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.dll
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\refint\Lesson08.dll
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.pdb
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\Lesson08.genruntimeconfig.cache
+D:\Unity Projects\CSharp2026Spring\Lesson08\obj\Debug\net9.0\ref\Lesson08.dll

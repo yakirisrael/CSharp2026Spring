@@ -8,19 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yakir\\.nuget\\packages\\": {}
+    "C:\\Users\\yakir\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yakir\\RiderProjects\\CSharp2026Spring\\Lesson08\\Lesson08.csproj",
+      "projectUniqueName": "D:\\Unity Projects\\CSharp2026Spring\\Lesson08\\Lesson08.csproj",
       "projectName": "Lesson08",
-      "projectPath": "C:\\Users\\yakir\\RiderProjects\\CSharp2026Spring\\Lesson08\\Lesson08.csproj",
+      "projectPath": "D:\\Unity Projects\\CSharp2026Spring\\Lesson08\\Lesson08.csproj",
       "packagesPath": "C:\\Users\\yakir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yakir\\RiderProjects\\CSharp2026Spring\\Lesson08\\obj\\",
+      "outputPath": "D:\\Unity Projects\\CSharp2026Spring\\Lesson08\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\yakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -87,7 +92,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\yakir\\.dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
